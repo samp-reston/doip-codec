@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.9](https://github.com/samp-reston/doip-codec/compare/v2.0.8...v2.0.9) - 2026-02-17
+
+### Other
+
+- update doip-defintions
+
 ## [2.0.8](https://github.com/samp-reston/doip-codec/compare/v2.0.7...v2.0.8) - 2025-06-26
 
 ### Other
