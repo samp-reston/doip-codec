@@ -30,7 +30,7 @@ debug = true
 
 [dependencies]
 derive_more = { version = "2.0.1", features = ["from"] }
-doip-definitions = { version = "3.0.12", default-features = false }
+doip-definitions = { version = "3.0.14", default-features = false }
 heapless = "0.8.0"
 pyo3 = { version = "0.24.2", features = [
   "abi3-py311",
